@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name footprints)(type KiCad)(uri /home/jon/projects/modular/myeurorack/footprints.pretty)(options "")(descr ""))
+)
