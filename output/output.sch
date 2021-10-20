@@ -74,7 +74,7 @@ U 1 1 5F7D5EF5
 P 2550 3350
 F 0 "J2" H 2582 3675 50  0000 C CNN
 F 1 "AudioJack2_SwitchT" H 2150 3600 50  0001 C CNN
-F 2 "footprints:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles" H 2550 3350 50  0001 C CNN
+F 2 "kicad_lib:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles" H 2550 3350 50  0001 C CNN
 F 3 "~" H 2550 3350 50  0001 C CNN
 	1    2550 3350
 	1    0    0    1   
@@ -85,7 +85,7 @@ U 1 1 5F7D6819
 P 9050 2650
 F 0 "J4" H 8770 2583 50  0000 R CNN
 F 1 "AudioJack3" H 8770 2674 50  0000 R CNN
-F 2 "footprints:Jack_3.5mm_QingPu_WQP-WQP419GR_Vertical_CircularHoles" H 9050 2650 50  0001 C CNN
+F 2 "kicad_lib:Jack_3.5mm_QingPu_WQP-WQP419GR_Vertical_CircularHoles" H 9050 2650 50  0001 C CNN
 F 3 "~" H 9050 2650 50  0001 C CNN
 	1    9050 2650
 	-1   0    0    1   
@@ -96,7 +96,7 @@ U 1 1 5F7D6E16
 P 9200 5250
 F 0 "J5" H 8920 5183 50  0000 R CNN
 F 1 "AudioJack3" H 8920 5274 50  0000 R CNN
-F 2 "footprints:Jack_3.5mm_QingPu_WQP-WQP419GR_Vertical_CircularHoles" H 9200 5250 50  0001 C CNN
+F 2 "kicad_lib:Jack_3.5mm_QingPu_WQP-WQP419GR_Vertical_CircularHoles" H 9200 5250 50  0001 C CNN
 F 3 "~" H 9200 5250 50  0001 C CNN
 	1    9200 5250
 	-1   0    0    1   
@@ -261,7 +261,7 @@ U 1 1 5F7DE7C7
 P 5450 5600
 F 0 "RV2" V 5500 5850 50  0000 R CNN
 F 1 "100k" V 5400 5900 50  0000 R CNN
-F 2 "footprints:Potentiometer_Song_Huei_R1214G_Dual_Vertical" H 5700 5525 50  0001 C CNN
+F 2 "kicad_lib:Potentiometer_Song_Huei_R1214G_Dual_Vertical" H 5700 5525 50  0001 C CNN
 F 3 "~" H 5700 5525 50  0001 C CNN
 	1    5450 5600
 	0    1    -1   0   
@@ -272,7 +272,7 @@ U 1 1 5F7DFF5E
 P 5650 2700
 F 0 "RV1" V 5700 2900 50  0000 R CNN
 F 1 "100k" V 5600 2950 50  0000 R CNN
-F 2 "footprints:Potentiometer_Song_Huei_R1214G_Dual_Vertical" H 5900 2625 50  0001 C CNN
+F 2 "kicad_lib:Potentiometer_Song_Huei_R1214G_Dual_Vertical" H 5900 2625 50  0001 C CNN
 F 3 "~" H 5900 2625 50  0001 C CNN
 	1    5650 2700
 	0    1    -1   0   
@@ -1454,7 +1454,7 @@ U 1 1 5F7D460D
 P 2550 1850
 F 0 "J1" H 2371 1829 50  0000 R CNN
 F 1 "AudioJack2_SwitchT" H 2582 2084 50  0001 C CNN
-F 2 "footprints:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles" H 2550 1850 50  0001 C CNN
+F 2 "kicad_lib:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles" H 2550 1850 50  0001 C CNN
 F 3 "~" H 2550 1850 50  0001 C CNN
 	1    2550 1850
 	1    0    0    1   
