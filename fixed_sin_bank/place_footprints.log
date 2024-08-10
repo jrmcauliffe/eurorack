@@ -1,0 +1,26 @@
+08-04 14:34:52 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 647:Plugin executed on: 'linux'
+08-04 14:34:52 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 648:Plugin executed with python version: '3.10.12 (main, Jul 29 2024, 16:56:48) [GCC 11.4.0]'
+08-04 14:34:52 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 649:KiCad build version: 8.0.4-8.0.4-0~ubuntu22.04.1
+08-04 14:34:52 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 650:Plugin version: 3.0.0
+08-04 14:34:52 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 651:Frame repr: <wx._core.Frame object at 0x7ffad372be20>
+08-04 14:34:52 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+08-04 14:34:52 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J101 on root level
+08-04 14:34:52 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D102 on root level
+08-04 14:34:52 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D101 on root level
+08-04 14:34:52 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C102 on root level
+08-04 14:34:52 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C101 on root level
+08-04 14:34:54 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 86:By Sheet GUI initialized
+08-04 14:34:54 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 95:Selecting: 1
+08-04 14:34:54 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 99:Should invoke level_changed()
+08-04 14:34:54 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 277:Level_changed() invoked
+08-04 14:34:54 com_github_MitjaNemec_PlaceFootprints.place_footprints 244:constructing a list of sheets suitable for replication on level:'Oscillator 1', file:'oscillator.kicad_sch'
+08-04 14:34:54 com_github_MitjaNemec_PlaceFootprints.place_footprints 279:suitable sheets are:[['Oscillator 2'], ['Oscillator 3'], ['Oscillator 4'], ['Oscillator 5'], ['Oscillator 6']]
+08-04 14:34:56 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 184:Saving config sheet
+08-04 14:34:56 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 196:Preparing config for sheet linear
+08-04 14:34:56 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 216:Saving config file
+08-04 14:34:56 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 218:Saved the config file
+08-04 14:34:56 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 718:Sheets selected: [['Oscillator 2'], ['Oscillator 3'], ['Oscillator 4'], ['Oscillator 5'], ['Oscillator 6']]
+08-04 14:34:56 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 727:Footprints to place: ['U201', 'U301', 'U401', 'U501', 'U601', 'U701']
+08-04 14:34:56 com_github_MitjaNemec_PlaceFootprints.place_footprints 367:Starting placing with linear layout
+08-04 14:34:56 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 772:Placing complete
+08-04 14:34:56 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 773:Sorted_footprints: ['U201', 'U301', 'U401', 'U501', 'U601', 'U701']
