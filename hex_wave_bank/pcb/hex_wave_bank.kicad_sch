@@ -1907,7 +1907,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "C_Polarized 10 uF"
 			(at 113.284 86.868 0)
 			(effects
 				(font
@@ -2308,7 +2308,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "C_Polarized 10 uF"
 			(at 113.284 79.248 0)
 			(effects
 				(font
@@ -2522,7 +2522,7 @@
 			)
 		)
 		(instances
-			(project "fixed_sin_bank"
+			(project "hex_wave_bank"
 				(path "/fcaa2633-3922-4eef-aafe-407dcfc8954a"
 					(page "2")
 				)
@@ -2560,7 +2560,7 @@
 			)
 		)
 		(instances
-			(project "fixed_sin_bank"
+			(project "hex_wave_bank"
 				(path "/fcaa2633-3922-4eef-aafe-407dcfc8954a"
 					(page "3")
 				)
@@ -2598,7 +2598,7 @@
 			)
 		)
 		(instances
-			(project "fixed_sin_bank"
+			(project "hex_wave_bank"
 				(path "/fcaa2633-3922-4eef-aafe-407dcfc8954a"
 					(page "6")
 				)
@@ -2636,7 +2636,7 @@
 			)
 		)
 		(instances
-			(project "fixed_sin_bank"
+			(project "hex_wave_bank"
 				(path "/fcaa2633-3922-4eef-aafe-407dcfc8954a"
 					(page "7")
 				)
@@ -2674,7 +2674,7 @@
 			)
 		)
 		(instances
-			(project "fixed_sin_bank"
+			(project "hex_wave_bank"
 				(path "/fcaa2633-3922-4eef-aafe-407dcfc8954a"
 					(page "4")
 				)
@@ -2712,7 +2712,7 @@
 			)
 		)
 		(instances
-			(project "fixed_sin_bank"
+			(project "hex_wave_bank"
 				(path "/fcaa2633-3922-4eef-aafe-407dcfc8954a"
 					(page "5")
 				)
